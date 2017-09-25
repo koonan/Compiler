@@ -1,0 +1,7 @@
+sum		id
+count		id
+pass		id
+mnt		id
+pass		id
+pass		id
+pass		id
